@@ -1,0 +1,4 @@
+git 添加文件到仓库
+前提 文件放入仓库所在目录下
+1. git add file1 file2 ...
+2. git commit -m"这是本次提交的说明"
